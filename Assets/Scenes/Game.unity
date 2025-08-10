@@ -452,7 +452,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: {fileID: 1457652414}
-  startTime: 50
+  startTime: 90
 --- !u!114 &491158769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationText: {fileID: 1494252537}
-  allowedRotationCount: 200
+  allowedRotationCount: 100
 --- !u!1 &523473524
 GameObject:
   m_ObjectHideFlags: 0
