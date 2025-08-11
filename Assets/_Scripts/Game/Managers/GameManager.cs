@@ -7,8 +7,6 @@ using Game.UI.Panels;
 using Game.Utilities;
 using UnityEngine;
 using System.Linq;
-using UnityEngine.Rendering;
-using UnityEditor.Build;
 
 
 namespace Game.PuzzleGame.Managers
