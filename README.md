@@ -6,8 +6,7 @@
 
 1. Clone this repository
 2. Open the project in **Unity** (version 6.0.54f1).
-3. Open all scenes in the **Scene** folder to load them. **IMPORTANT STEP!!!**
-4. Open the **Loading scene** from the same folder and PLAY!
+3. **Build and Run!!**
 
 ## 🎮 How to Play
 
