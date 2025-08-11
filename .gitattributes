@@ -1,2 +1,2 @@
-*.meta linguist-detectable=false
-*.asset linguist-detectable=false
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
